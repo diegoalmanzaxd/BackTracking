@@ -1,4 +1,4 @@
-# Soución de laberinto con BackTracking
+# Solución de laberinto con BackTracking
 
 ## Complejidad
 - N = 
